@@ -1,5 +1,5 @@
 # 🌟 Airbnb Hawaii
-Focus area: SQL Querying.
+Focus area: Querying dataset using SQL.
 
 Period: May 2023
 
